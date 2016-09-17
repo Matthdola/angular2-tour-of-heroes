@@ -10,8 +10,11 @@ h2, h3 {
   font-weight: lighter;
 }
 body { 
-  margin: 2em; 
+  margin: auto;
+  background-color: rgba(0,0,0,0.83);
+  width: 900px;
 }
+
 body, input[text], button { 
   color: #888; 
   font-family: Cambria, Georgia; 
